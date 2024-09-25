@@ -1,0 +1,673 @@
+.top_nav {
+  height: 70px !important;
+}
+
+#topnav {
+  background-color: rgb(242 110 91) !important;
+}
+.navbar_brand {
+  color: #4cc082;
+  font-size: 40px;
+  font-family: cursive;
+}
+.navbar_brand:hover {
+  color: #4cc082;
+}
+.page,
+.course,
+.home,
+.contact,
+.shop,
+.blog,
+.event {
+  font-size: 18px !important;
+}
+.page:hover,
+.course:hover,
+.contact:hover,
+.shop:hover,
+.blog:hover,
+.event:hover {
+  color: #4cc082 !important;
+}
+.home {
+  color: #4cc082 !important;
+}
+
+.billiboardimg {
+  background-image: url("billboard-bg.png");
+  width: 100%;
+  background-size: contain;
+  height: 800px;
+}
+.featurebox {
+  position: absolute;
+  top: 800px;
+  left: 125px;
+}
+
+.onlinetext {
+  padding-top: 180px;
+}
+.Masterskill {
+  font-size: 92px;
+  font-weight: 300px;
+}
+.industries {
+  font-size: 30px;
+}
+
+.box1 {
+  width: 200px;
+  height: 170px;
+  -webkit-box-shadow: 10px 10px 3px 0px rgba(227, 227, 227, 1);
+  -moz-box-shadow: 10px 10px 3px 0px rgba(227, 227, 227, 1);
+  box-shadow: 10px 10px 3px 0px rgba(227, 227, 227, 1);
+}
+.box1:hover {
+  background-color: #4cc082 !important;
+}
+.about {
+  padding-top: 190px !important;
+  padding-bottom: 85px !important;
+}
+
+.instructor,
+.Courses,
+.Certification,
+.Members {
+  color: #ec6c5a;
+}
+
+.learnmore {
+  color: #ec6c5a;
+}
+.tickcircle {
+  color: #ec6c5a;
+}
+.Popularcategories {
+  font-size: 50px;
+}
+.graphic {
+  background-color: #e2f3f0;
+  height: 130px;
+}
+.graphic:hover {
+  background-color: #4cc082;
+}
+.graphicdesign{
+  background-color: #e2f3f0;
+  height: 130px;
+}
+.graphicdesign:hover{
+  background-color: #4cc082;
+}
+.video {
+  height: 130px;
+  background-color: #e0e5eb;
+}
+.video:hover {
+  background-color: #75797d;
+}
+.marketing {
+  height: 130px;
+  background-color: #ffeed3;
+}
+.seo{
+  height: 130px;
+  background-color: #ffeed3;
+}
+.marketing:hover {
+  background-color: #f8be60;
+}
+.seo:hover{
+  background-color: #f8be60;
+}
+.topic {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0;
+}
+.computer {
+  height: 130px;
+  background-color: #ffe9e5;
+}
+.computer:hover {
+  background-color: #ec6c5a;
+}
+.Business {
+  height: 130px;
+  background-color: #ffe9e5;
+}
+.Business:hover {
+  background-color: #ec6c5a;
+}
+.Design {
+  height: 130px;
+  background-color: #e0e5eb;
+}
+.Design:hover {
+  background-color: #75797d;
+}
+.Health {
+  height: 130px;
+  background-color: #ffeed3;
+}
+.Health:hover {
+  background-color: #f8be60;
+}
+.popularonlinecourse {
+  color: #ec6c5a;
+}
+.explore {
+  font-size: 41px;
+}
+.Learnmore {
+  font-size: 19px;
+  font-weight: 450;
+  width: 200px;
+  background-color: #4cc082;
+  color: white;
+}
+.Learnmore:hover {
+  color: white;
+  background-color: #399664;
+}
+.niche {
+  color: #ec6c5a;
+}
+.allcategory {
+  font-size: 20px;
+  font-weight: 450px;
+  width: 300px;
+  height: 55px;
+  background-color: #4cc082;
+}
+.first:hover {
+  color: white;
+}
+.digitalmarketing,
+.time {
+  color: #00000080;
+}
+.mastering {
+  font-size: 23px;
+}
+.mastering:hover {
+  color: #4cc082;
+}
+.allcourses {
+  height: 50px;
+  width: 250px;
+  font-size: 20px;
+  background-color: #4cc082;
+}
+.what,
+.meet {
+  color: #ec6c5a;
+}
+
+.shadow-sm {
+  box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075) !important;
+}
+.courses {
+  padding-top: 55px !important;
+  padding-bottom: 85px !important;
+}
+.teacher {
+  padding-top: 130px;
+  padding-bottom: 85px;
+}
+.art {
+  color: #ec6c5a;
+}
+.testimonial{
+    height: 600px;
+    background-color: #e2f3f0;
+}
+.testimonialcard{
+    background-color: #e2f3f0;
+}
+.card_text{
+    font-size: 13px;
+    font-weight: 600;
+}
+.dumbel:hover{
+  color: white !important;
+}
+
+.points {
+  padding-top: 90px;
+  padding-bottom: 80px;
+}
+
+.engage {
+  font-size: 18px;
+}
+.register{
+  background-color: #ffeed3;
+}
+
+
+
+.startednow {
+  background-color: #4cc082;
+  color: white;
+  font-size: 19px;
+}
+.startednow:hover {
+  background-color: #4cc082;
+  color: white;
+}
+#footer {
+  padding-top: 100px;
+}
+.profileimg {
+  margin-top: 95px;
+}
+
+.jubilee {
+  color: #4cc082;
+  font-size: 40px;
+  font-family: cursive;
+}
+.hr {
+  opacity: 25;
+}
+.cardteacher {
+  width: 260px;
+}
+.card {
+  width: 300px;
+}
+.reviewtext{
+  font-size: 17px;
+}
+.carouselItems{
+  height: 300px !important;
+}
+.carousel_indicators{
+  bottom: -70px;
+}
+.teacherCard{
+  overflow: hidden;
+}
+.teacherimg{
+  transition: all 0.5s ease-in-out ;
+}
+.teacherimg:hover{
+  position: relative;
+  transform: scale(1.5);
+  
+}
+
+.socialLink{
+  opacity: 0;
+  z-index: 1;
+  top: 15px;
+  transition: all 0.5s ease-in-out ;
+}
+
+
+.teacherimg:hover+.socialLink{
+  opacity: 1;
+}
+
+.socialLink:hover{
+  opacity: 1;
+}
+
+.searchengine > input:focus{
+  outline: none;
+}
+
+
+
+
+
+
+
+
+
+
+@media (max-width: 1400px) and (min-width: 1200px) {
+  .Masterskill {
+    font-size: 68px;
+    margin-top: -180px;
+  }
+  .profileimg {
+    height: 500px;
+    margin-top: 0;
+  }
+
+  .billiboardimg {
+    height: 500px;
+  }
+  .featurebox {
+    margin-top: -99px;
+    margin-left: -124px
+  }
+  .aboutimage {
+    height: 500px;
+  }
+  .about {
+    margin: 0;
+  }
+  .aboutext {
+    width: 377px;
+  }
+  .card {
+    width: 22%;
+    margin-left: 17px;
+  }
+  .cardteacher {
+    width: 228px;
+  }
+  .tickcircle {
+    width: 35px;
+  }
+}
+
+@media (max-width: 1199px) and (min-width: 992px) {
+  .featurebox {
+    margin-top: 248px;
+    margin-left: -73px;
+  }
+  .Masterskill {
+    font-size: 78px;
+  }
+  .aboutimage {
+    height: 415px;
+  }
+  .profileimg {
+    height: 495px;
+    margin-top: 245px;
+  }
+  .aboutext {
+    width: 270px;
+    margin-left: 20px;
+    font-size: 17px;
+  }
+  .tickcircle {
+    width: 45px;
+  }
+  .reccaimg{
+    width: 39px;
+  }
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+  .featurebox {
+    margin-top: 248px;
+    margin-left: -73px;
+  }
+  .Masterskill {
+    font-size: 52px;
+    margin-top: -86px;
+  }
+  .profileimg {
+    height: 424px;
+    margin-top: 82px;
+  }
+  .billiboardimg {
+    height: 590px;
+  }
+  .featurebox {
+    margin-top: -30px;
+    margin-left: -120px !important;
+  }
+  .aboutimage {
+    height: 300px;
+  }
+  .aboutext {
+    width: 225px;
+    margin-left: 44px;
+    font-size: 14px;
+    margin-top: 145px;
+  }
+  .tickcircle {
+    width: 35px;
+  }
+
+  .topic {
+    margin-right: 40px;
+    font-size: 15px;
+  }
+  .topicCourse {
+    margin-right: 40px;
+  }
+  .card {
+    width: 45%;
+  }
+  .teacherimdholder {
+    display: flex;
+    justify-content: center;
+  }
+  .Popularcategories {
+    font-size: 40px;
+  }
+  .allcategory {
+    width: 205px;
+  }
+
+  .reviewtext{
+    font-size: 13px;
+  }
+  .reccaimg{
+    width: 45px;
+    height: 47px;
+  }
+  .reviewname{
+font-size: 15px;
+  }
+  .developer{
+    font-size: 13px;
+  }
+  .bickyimg{
+    width: 40px;
+  }
+  .lillyimg{
+    width :40px;
+  }
+}
+
+@media (max-width: 767px) and (min-width: 576px) {
+  .Masterskill {
+    font-size: 42px;
+    margin-top: -162px;
+    font-weight: 300px;
+  }
+  .profileimg {
+    height: 420px;
+    margin-top: 55px;
+  }
+  .featurebox {
+    position: absolute;
+    top: 1012px;
+    left: 36px;
+  }
+  .aboutimage {
+    height: 381px;
+    margin-top: 266px;
+  }
+  .tickcircle {
+    width: 30px;
+  }
+  .Popularcategories {
+    font-size: 35px;
+    margin-left: 65px;
+  }
+  .niche {
+    margin-left: 65px;
+  }
+  .allcategory {
+    width: 244px;
+    margin-left: 112px;
+    margin-top: 14px;
+  }
+ 
+  .reviewtext{
+    font-size: 11px;
+  }
+  .reccaimg{
+   
+    height: 45px;
+  }
+  .reviewname{
+font-size: 13px;
+  }
+  .developer{
+    font-size: 12px;
+  }
+  .bickyimg{
+    height: 45px;
+  }
+  .lillyimg{
+    height: 45px;
+  }
+}
+
+@media (max-width: 575px) and (min-width: 350px) {
+  .Masterskill {
+    font-size: 25px;
+    margin-top: -100px;
+    display: flex;
+    justify-content: center;
+  }
+  .industries{
+    margin-left: 47px;
+  }
+  .searchengine {
+    width: 320px;
+  }
+ 
+  .about{
+    padding: 2px !important;
+  }
+  .profileimg {
+    height: 343px;
+    margin-top: 80px;
+  }
+  .featurebox {
+    position: absolute;
+    top: 1105px;
+    left: -25px;
+  }
+  .aboutimage {
+    height: 340px;
+    margin-top: 620px;
+    margin-left: -4px;
+  }
+  .aboutcontent {
+    display: flex;
+    justify-content: flex-start;
+    margin-left: 0px;
+    font-size: 13px;
+    padding: 11px;
+  }
+  .tickcircle {
+    width: 65px;
+  }
+  .Learnmore {
+    font-size: 13px;
+    font-weight: 500;
+  }
+  .Popularcategories {
+    font-size: 35px;
+  }
+  .allcategory {
+    font-size: 18px;
+    font-weight: 450px;
+    width: 226px;
+    height: 51px;
+  }
+  .graphic,
+  .video,
+  .marketing,
+  .computer,
+  .Business,
+  .computer,
+  .Design,
+  .Health,
+  .seo {
+    
+    margin-bottom: 10px !important;
+  }
+ 
+  .card {
+    width: 315px;
+    margin-bottom: 20px;
+  }
+  /* .Subscribe {
+    font-weight: 500 !important;
+    font-size: 25px;
+    width: 333px;
+    margin-bottom: 4px;
+    margin-top: -84px;
+  }
+  .newsletter {
+    font-size: 20px;
+    width: 210px;
+  }
+  .registerform {
+    margin-left: 68px;
+    width: 239px;
+  }
+  .get {
+    font-size: 15px;
+  }
+  .emailadd {
+    font-size: 14px;
+  }
+  .register {
+    height: 500px;
+  } */
+  /* .video{
+    margin-top: 153px;
+    margin-left: -126px;
+  }
+  .marketing{
+    margin-top: 308px;
+    margin-left: -250px;
+  }
+  .computer{
+    margin-top: 155px;
+    margin-left: -126px;
+  }
+  .graphicdesign{
+           margin-top: 310px;
+        margin-left: -226px;
+        width: 269px;
+  }
+  .Health{
+    margin-top: 150px;
+    margin-left: -126px;
+  }
+  .Design{
+    margin-top: 300px;
+    margin-left: -250px;
+  } */
+  .reviewtext{
+    font-size: 11px;
+  }
+  .reccaimg{
+   
+    height: 45px;
+  }
+  .reviewname{
+font-size: 13px;
+  }
+  .developer{
+    font-size: 12px;
+  }
+  .bickyimg{
+    height: 45px;
+  }
+  .lillyimg{
+    height: 45px;
+  }
+  .lillycol{
+    margin-top: -39px;
+    margin-left: 70px;
+  }
+}
